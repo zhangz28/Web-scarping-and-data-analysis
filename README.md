@@ -9,8 +9,10 @@ confirmed cases in schools and the data is updated weekly.
 Aug 16, 2020 to Apr 9, 2022 and savethem into a text file. 
 
 2.Read the scraped data and do the following analyses and visualization:
+
       a.	Plot the confirmed cases over time. For each table, plot categories in each
           table in one figure, so that the numbers are comparable.
+          
       b.  Use KNN smoothing method with Gaussian Kernel to predict how many people were
           infected during Thanksgiving and Christmas holiday two holidays.( In the Thanksgiving
           and Christmas holiday, the number of confirmed cases dropped down. The possible
